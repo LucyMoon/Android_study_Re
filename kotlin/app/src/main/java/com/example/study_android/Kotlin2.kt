@@ -4,7 +4,6 @@ import android.util.Log
 import kotlin.math.exp
 
 class Kotlin2 {
-
 }
 
 fun forexam(){
